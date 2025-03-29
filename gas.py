@@ -5,7 +5,7 @@ import pandas as pd
 # ThingSpeak API Details
 THINGSPEAK_CHANNEL_ID = "2897716"  # Replace with your ThingSpeak Channel ID
 THINGSPEAK_API_KEY = "5U8VB0UD2P19JNA5"   # Replace with your ThingSpeak Read API Key
-THINGSPEAK_URL = GET https://api.thingspeak.com/channels/2897716/feeds.json?api_key=5U8VB0UD2P19JNA5&results=2
+THINGSPEAK_URL = https://api.thingspeak.com/channels/2897716/feeds.json?api_key=5U8VB0UD2P19JNA5&results=2
 # Streamlit Web App
 st.set_page_config(page_title="IoT Dashboard", layout="wide")
 
